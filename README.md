@@ -30,45 +30,6 @@
 
 To get a local copy up and running, follow these simple steps:
 
-Gemini said
-It appears that your repository kkrrishn/AaoSikheSystem might be set to Private or is a very new repository that hasn't been indexed by search engines yet, which prevents me from scanning the specific code files inside it.
-
-However, based on the name AaoSikheSystem (which translates to "Come, Let's Learn System"), I have generated a comprehensive, professional README.md that follows the standard structure of a modern framework or educational platform.
-
-Recommended README.md for AaoSikheSystem
-Markdown
-# 🚀 AaoSikheSystem
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg)
-
-**AaoSikheSystem** (आओ सीखें - "Come, Let's Learn") is an open-source framework designed to simplify the creation and management of educational platforms. Whether you are building a school portal, an online course platform, or a tutorial hub, AaoSikheSystem provides the structural backbone to get you started in minutes.
-
----
-
-## 🌟 Key Features
-
-- **Modular Architecture**: Easy to plug-in new subjects, courses, or interactive modules.
-- **Lightweight & Fast**: Minimal dependencies to ensure fast loading times.
-- **Responsive Design**: Mobile-first approach for learning on the go.
-- **Developer Friendly**: Clean code structure with comprehensive documentation.
-- **SEO Optimized**: Built-in meta-tag management for educational content visibility.
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend**: HTML5, CSS3 (Modern Flex/Grid), JavaScript (ES6+)
-- **Styling**: [Optional: Mention if you use Tailwind/Bootstrap]
-- **Backend/Scripts**: [Optional: Mention Node.js, PHP, or Python if applicable]
-
----
-
-## 🚀 Getting Started
-
-To get a local copy up and running, follow these simple steps:
-
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/kkrrishn/AaoSikheSystem.git](https://github.com/kkrrishn/AaoSikheSystem.git)
