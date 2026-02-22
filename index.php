@@ -36,8 +36,10 @@ $db = \AaoSikheSystem\db\DBManager::getInstance($dbConfig);
 PathManager::load($appConfig);
 PathManager::defineConstants();
 SecurityManager::apply();
+if($db->connection()->isConnected()){
 $s= new SettingHelper($db);
 $s->load();
+}
 
 
 // Initialize router
@@ -99,4 +101,5 @@ if (
         \AaoSikheSystem\helper\PageSpeed::logPerformance();
     });
 }
+
 
