@@ -117,7 +117,7 @@
         
         <div class="cta-buttons">
             <a href="#docs" class="btn btn-primary">Get Started</a>
-            <a href="#github" class="btn btn-secondary">View on GitHub</a>
+            <a href="https://github.com/kkrrishn/AaoSikheSystem" class="btn btn-secondary">View on GitHub</a>
         </div>
 
         <div style="margin-top: 4rem; font-size: 0.9rem; color: #9ca3af;">
@@ -126,4 +126,5 @@
     </div>
 
 </body>
+
 </html>
