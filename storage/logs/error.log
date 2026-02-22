@@ -1,0 +1,307 @@
+[2026-02-19 01:50:19] Route not found: GET /emp/user/c3R1Mjk0/add/course/student in C:\xampp\htdocs\as\core\lib\router\Router.php:120
+Stack trace:
+#0 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/emp/user/c3R1M...')
+#1 {main}
+[2026-02-19 01:51:40] Route not found: GET /emp/user/c3R1Mjk0/add/course/student in C:\xampp\htdocs\as\core\lib\router\Router.php:120
+Stack trace:
+#0 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/emp/user/c3R1M...')
+#1 {main}
+[2026-02-19 01:51:41] Route not found: GET /emp/user/c3R1Mjk0/add/course/student in C:\xampp\htdocs\as\core\lib\router\Router.php:120
+Stack trace:
+#0 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/emp/user/c3R1M...')
+#1 {main}
+[2026-02-19 01:51:42] Route not found: GET /emp/user/c3R1Mjk0/add/course/student in C:\xampp\htdocs\as\core\lib\router\Router.php:120
+Stack trace:
+#0 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/emp/user/c3R1M...')
+#1 {main}
+[2026-02-19 04:52:53] Cannot access offset of type string on string in C:\xampp\htdocs\as\app\controllers\UserController.php:416
+Stack trace:
+#0 [internal function]: App\Controllers\UserController->getuserenroll()
+#1 C:\xampp\htdocs\as\core\lib\router\Router.php(222): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('UserController@...', Array)
+#3 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#4 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('POST', '/ajax/user/enro...')
+#5 {main}
+[2026-02-19 04:53:48] Cannot access offset of type string on string in C:\xampp\htdocs\as\app\controllers\UserController.php:416
+Stack trace:
+#0 [internal function]: App\Controllers\UserController->getuserenroll()
+#1 C:\xampp\htdocs\as\core\lib\router\Router.php(222): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('UserController@...', Array)
+#3 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#4 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('POST', '/ajax/user/enro...')
+#5 {main}
+[2026-02-19 04:54:54] Cannot access offset of type string on string in C:\xampp\htdocs\as\app\controllers\UserController.php:416
+Stack trace:
+#0 [internal function]: App\Controllers\UserController->getuserenroll()
+#1 C:\xampp\htdocs\as\core\lib\router\Router.php(222): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('UserController@...', Array)
+#3 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#4 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('POST', '/ajax/user/enro...')
+#5 {main}
+[2026-02-19 04:58:36] Undefined variable $filter in C:\xampp\htdocs\as\app\controllers\UserController.php:420
+Stack trace:
+#0 C:\xampp\htdocs\as\app\controllers\UserController.php(420): AaoSikheSystem\Error\ErrorHandler::handleError(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 420)
+#1 [internal function]: App\Controllers\UserController->getuserenroll()
+#2 C:\xampp\htdocs\as\core\lib\router\Router.php(222): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('UserController@...', Array)
+#4 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#5 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('POST', '/ajax/user/enro...')
+#6 {main}
+[2026-02-19 05:22:06] Undefined property: App\Controllers\EmployeesController::$enrollments in C:\xampp\htdocs\as\app\controllers\EmployeesController.php:113
+Stack trace:
+#0 C:\xampp\htdocs\as\app\controllers\EmployeesController.php(113): AaoSikheSystem\Error\ErrorHandler::handleError(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 113)
+#1 [internal function]: App\Controllers\EmployeesController->user('stu294', '*\xBA\xE2\xB2\x19\xCA\xBAf\xAB')
+#2 C:\xampp\htdocs\as\core\lib\router\Router.php(222): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('EmployeesContro...', Array)
+#4 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#5 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/emp/c3R1Mjk0/u...')
+#6 {main}
+[2026-02-19 05:25:28] Undefined variable $uid_pass in C:\xampp\htdocs\as\app\views\Employees\viewstudent.php:2627
+Stack trace:
+#0 C:\xampp\htdocs\as\app\views\Employees\viewstudent.php(2627): AaoSikheSystem\Error\ErrorHandler::handleError(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 2627)
+#1 C:\xampp\htdocs\as\core\lib\view\View.php(38): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\as\app\controllers\EmployeesController.php(117): AaoSikheSystem\view\View->render('viewstudent', Array)
+#3 [internal function]: App\Controllers\EmployeesController->user('stu294', '*\xBA\xE2\xB2\x19\xCA\xBAf\xAB')
+#4 C:\xampp\htdocs\as\core\lib\router\Router.php(222): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('EmployeesContro...', Array)
+#6 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#7 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/emp/c3R1Mjk0/u...')
+#8 {main}
+[2026-02-19 05:25:39] Undefined variable $uid_pass in C:\xampp\htdocs\as\app\views\Employees\viewstudent.php:2627
+Stack trace:
+#0 C:\xampp\htdocs\as\app\views\Employees\viewstudent.php(2627): AaoSikheSystem\Error\ErrorHandler::handleError(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 2627)
+#1 C:\xampp\htdocs\as\core\lib\view\View.php(38): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\as\app\controllers\EmployeesController.php(117): AaoSikheSystem\view\View->render('viewstudent', Array)
+#3 [internal function]: App\Controllers\EmployeesController->user('stu294', '*\xBA\xE2\xB2\x19\xCA\xBAf\xAB')
+#4 C:\xampp\htdocs\as\core\lib\router\Router.php(222): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('EmployeesContro...', Array)
+#6 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#7 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/emp/c3R1Mjk0/u...')
+#8 {main}
+[2026-02-19 06:19:32] Call to undefined method AaoSikheSystem\helper\Utility::timeAg() in C:\xampp\htdocs\as\app\views\Employees\viewstudent.php:238
+Stack trace:
+#0 C:\xampp\htdocs\as\core\lib\view\View.php(38): include()
+#1 C:\xampp\htdocs\as\app\controllers\EmployeesController.php(117): AaoSikheSystem\view\View->render('viewstudent', Array)
+#2 [internal function]: App\Controllers\EmployeesController->user('stu294', '*\xBA\xE2\xB2\x19\xCA\xBAf\xAB')
+#3 C:\xampp\htdocs\as\core\lib\router\Router.php(222): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('EmployeesContro...', Array)
+#5 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#6 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/emp/c3R1Mjk0/u...')
+#7 {main}
+[2026-02-19 07:10:48] Undefined constant "App\Controllers\DUES_DAY" in C:\xampp\htdocs\as\app\controllers\UserController.php:288
+Stack trace:
+#0 [internal function]: App\Controllers\UserController->handelStudentCourse('stu294')
+#1 C:\xampp\htdocs\as\core\lib\router\Router.php(222): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('UserController@...', Array)
+#3 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#4 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('POST', '/emp/user/stu29...')
+#5 {main}
+[2026-02-19 07:11:00] Undefined constant "App\Controllers\DUES_DAY" in C:\xampp\htdocs\as\app\controllers\UserController.php:288
+Stack trace:
+#0 [internal function]: App\Controllers\UserController->handelStudentCourse('stu294')
+#1 C:\xampp\htdocs\as\core\lib\router\Router.php(222): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('UserController@...', Array)
+#3 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#4 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('POST', '/emp/user/stu29...')
+#5 {main}
+[2026-02-19 07:35:49] App\models\UserModel::updateUIDById(): Argument #3 ($roll_no) must be of type ?int, string given, called in C:\xampp\htdocs\as\app\controllers\UserController.php on line 304 in C:\xampp\htdocs\as\app\models\UserModel.php:430
+Stack trace:
+#0 C:\xampp\htdocs\as\app\controllers\UserController.php(304): App\models\UserModel->updateUIDById('stu294', '2026-02-20', '109')
+#1 [internal function]: App\Controllers\UserController->handelStudentCourse('stu294')
+#2 C:\xampp\htdocs\as\core\lib\router\Router.php(222): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('UserController@...', Array)
+#4 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#5 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('POST', '/emp/user/stu29...')
+#6 {main}
+[2026-02-19 09:54:17] Method handelStudentpayment not found in controller App\Controllers\UserController in C:\xampp\htdocs\as\core\lib\router\Router.php:219
+Stack trace:
+#0 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('UserController@...', Array)
+#1 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#2 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('POST', '/emp/user/stu29...')
+#3 {main}
+[2026-02-19 10:01:47] Array to string conversion in C:\xampp\htdocs\as\app\views\Employees\addSCP.php:1794
+Stack trace:
+#0 C:\xampp\htdocs\as\app\views\Employees\addSCP.php(1794): AaoSikheSystem\Error\ErrorHandler::handleError(2, 'Array to string...', 'C:\\xampp\\htdocs...', 1794)
+#1 C:\xampp\htdocs\as\core\lib\view\View.php(38): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\as\app\controllers\EmployeesController.php(105): AaoSikheSystem\view\View->render('addSCP', Array)
+#3 [internal function]: App\Controllers\EmployeesController->addUserpayment('c3R1Mjk0', 'W3siaWQiOiJjcnM...')
+#4 C:\xampp\htdocs\as\core\lib\router\Router.php(222): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('EmployeesContro...', Array)
+#6 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#7 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/emp/user/c3R1M...')
+#8 {main}
+[2026-02-19 10:01:51] Array to string conversion in C:\xampp\htdocs\as\app\views\Employees\addSCP.php:1794
+Stack trace:
+#0 C:\xampp\htdocs\as\app\views\Employees\addSCP.php(1794): AaoSikheSystem\Error\ErrorHandler::handleError(2, 'Array to string...', 'C:\\xampp\\htdocs...', 1794)
+#1 C:\xampp\htdocs\as\core\lib\view\View.php(38): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\as\app\controllers\EmployeesController.php(105): AaoSikheSystem\view\View->render('addSCP', Array)
+#3 [internal function]: App\Controllers\EmployeesController->addUserpayment('c3R1Mjk0', 'W3siaWQiOiJjcnM...')
+#4 C:\xampp\htdocs\as\core\lib\router\Router.php(222): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('EmployeesContro...', Array)
+#6 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#7 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/emp/user/c3R1M...')
+#8 {main}
+[2026-02-19 10:02:16] Array to string conversion in C:\xampp\htdocs\as\app\views\Employees\addSCP.php:1794
+Stack trace:
+#0 C:\xampp\htdocs\as\app\views\Employees\addSCP.php(1794): AaoSikheSystem\Error\ErrorHandler::handleError(2, 'Array to string...', 'C:\\xampp\\htdocs...', 1794)
+#1 C:\xampp\htdocs\as\core\lib\view\View.php(38): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\as\app\controllers\EmployeesController.php(105): AaoSikheSystem\view\View->render('addSCP', Array)
+#3 [internal function]: App\Controllers\EmployeesController->addUserpayment('c3R1Mjk0', 'W3siaWQiOiJjcnM...')
+#4 C:\xampp\htdocs\as\core\lib\router\Router.php(222): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('EmployeesContro...', Array)
+#6 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#7 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/emp/user/c3R1M...')
+#8 {main}
+[2026-02-19 10:03:09] Undefined array key "id" in C:\xampp\htdocs\as\app\views\Employees\addSCP.php:1686
+Stack trace:
+#0 C:\xampp\htdocs\as\app\views\Employees\addSCP.php(1686): AaoSikheSystem\Error\ErrorHandler::handleError(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 1686)
+#1 C:\xampp\htdocs\as\core\lib\view\View.php(38): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\as\app\controllers\EmployeesController.php(105): AaoSikheSystem\view\View->render('addSCP', Array)
+#3 [internal function]: App\Controllers\EmployeesController->addUserpayment('c3R1Mjk0', 'W3siaWQiOiJjcnM...')
+#4 C:\xampp\htdocs\as\core\lib\router\Router.php(222): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('EmployeesContro...', Array)
+#6 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#7 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/emp/user/c3R1M...')
+#8 {main}
+[2026-02-19 10:09:01] [] operator not supported for strings in C:\xampp\htdocs\as\app\controllers\EmployeesController.php:98
+Stack trace:
+#0 [internal function]: App\Controllers\EmployeesController->addUserpayment('c3R1Mjk0', 'W3siaWQiOiJjcnM...')
+#1 C:\xampp\htdocs\as\core\lib\router\Router.php(222): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('EmployeesContro...', Array)
+#3 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#4 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/emp/user/c3R1M...')
+#5 {main}
+[2026-02-20 04:35:52] Route not found: GET /emp//user/Krrishn_Kumar in C:\xampp\htdocs\as\core\lib\router\Router.php:120
+Stack trace:
+#0 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/emp//user/Krri...')
+#1 {main}
+[2026-02-20 07:49:02] Parameter count mismatch: expected 15, got 16 in C:\xampp\htdocs\as\core\lib\db\DBManager.php:183
+Stack trace:
+#0 C:\xampp\htdocs\as\core\lib\db\DBManager.php(161): AaoSikheSystem\db\DBManager->bindWithTypeString(Object(PDOStatement), 'sssssssddddssii', Array)
+#1 C:\xampp\htdocs\as\core\lib\db\DBManager.php(135): AaoSikheSystem\db\DBManager->bindParameters(Object(PDOStatement), 'sssssssddddssii', Array)
+#2 C:\xampp\htdocs\as\core\lib\db\DBManager.php(84): AaoSikheSystem\db\DBManager->execute('INSERT INTO tra...', 'sssssssddddssii', Array, NULL)
+#3 C:\xampp\htdocs\as\app\models\TransactionModel.php(69): AaoSikheSystem\db\DBManager->insert('INSERT INTO tra...', 'sssssssddddssii', Array)
+#4 C:\xampp\htdocs\as\app\controllers\UserController.php(390): App\models\TransactionModel->create('txn_699811ee8f0...', 'stu294', 'enr_699811bb4a2...', 'cash', 'INR', 1000, 1180, 1771545600, '234', NULL, 'paid', '{"note":"Admiss...', 0, 1000, 180)
+#5 [internal function]: App\Controllers\UserController->handelStudentpayment('c3R1Mjk0')
+#6 C:\xampp\htdocs\as\core\lib\router\Router.php(222): call_user_func_array(Array, Array)
+#7 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('UserController@...', Array)
+#8 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#9 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('POST', '/emp/user/c3R1M...')
+#10 {main}
+[2026-02-20 08:00:11] Undefined variable $transactionId in C:\xampp\htdocs\as\app\controllers\UserController.php:404
+Stack trace:
+#0 C:\xampp\htdocs\as\app\controllers\UserController.php(404): AaoSikheSystem\Error\ErrorHandler::handleError(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 404)
+#1 [internal function]: App\Controllers\UserController->handelStudentpayment('c3R1Mjk0')
+#2 C:\xampp\htdocs\as\core\lib\router\Router.php(222): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('UserController@...', Array)
+#4 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#5 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('POST', '/emp/user/c3R1M...')
+#6 {main}
+[2026-02-20 08:12:25] App\models\TransactionModel::create(): Argument #6 ($gross_amount) must be of type float, string given, called in C:\xampp\htdocs\as\app\controllers\UserController.php on line 380 in C:\xampp\htdocs\as\app\models\TransactionModel.php:21
+Stack trace:
+#0 C:\xampp\htdocs\as\app\controllers\UserController.php(380): App\models\TransactionModel->create('txn_69981769143...', 'stu294', 'enr_699811bb4a2...', 'cash', 'INR', '2500.00', 1770, '1000', 1771545600, '234', NULL, 'paid', '{"note":"Admiss...', 0, 1500, 270)
+#1 [internal function]: App\Controllers\UserController->handelStudentpayment('c3R1Mjk0')
+#2 C:\xampp\htdocs\as\core\lib\router\Router.php(222): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('UserController@...', Array)
+#4 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#5 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('POST', '/emp/user/c3R1M...')
+#6 {main}
+[2026-02-20 09:13:13] Method confirmPayment not found in controller App\Controllers\UserController in C:\xampp\htdocs\as\core\lib\router\Router.php:219
+Stack trace:
+#0 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('UserController@...', Array)
+#1 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#2 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/emp/user/YzNSM...')
+#3 {main}
+[2026-02-20 09:14:19] Method confirmPayment not found in controller App\Controllers\EmployeesController in C:\xampp\htdocs\as\core\lib\router\Router.php:219
+Stack trace:
+#0 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('EmployeesContro...', Array)
+#1 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#2 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/emp/user/YzNSM...')
+#3 {main}
+[2026-02-20 09:14:46] Unknown named parameter $id in C:\xampp\htdocs\as\core\lib\router\Router.php:222
+Stack trace:
+#0 C:\xampp\htdocs\as\core\lib\router\Router.php(222): call_user_func_array(Array, Array)
+#1 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('EmployeesContro...', Array)
+#2 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#3 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/emp/user/YzNSM...')
+#4 {main}
+[2026-02-20 09:20:25] Undefined variable $user_data in C:\xampp\htdocs\as\app\views\Employees\addSCP.php:2201
+Stack trace:
+#0 C:\xampp\htdocs\as\app\views\Employees\addSCP.php(2201): AaoSikheSystem\Error\ErrorHandler::handleError(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 2201)
+#1 C:\xampp\htdocs\as\core\lib\view\View.php(38): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\as\app\controllers\EmployeesController.php(121): AaoSikheSystem\view\View->render('addSCP', Array)
+#3 [internal function]: App\Controllers\EmployeesController->confirmPayment('YzNSMU1qazA=', Array)
+#4 C:\xampp\htdocs\as\core\lib\router\Router.php(222): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('EmployeesContro...', Array)
+#6 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#7 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/emp/user/YzNSM...')
+#8 {main}
+[2026-02-20 09:22:54] Undefined variable $student_id in C:\xampp\htdocs\as\app\views\Employees\addSCP.php:2201
+Stack trace:
+#0 C:\xampp\htdocs\as\app\views\Employees\addSCP.php(2201): AaoSikheSystem\Error\ErrorHandler::handleError(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 2201)
+#1 C:\xampp\htdocs\as\core\lib\view\View.php(38): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\as\app\controllers\EmployeesController.php(122): AaoSikheSystem\view\View->render('addSCP', Array)
+#3 [internal function]: App\Controllers\EmployeesController->confirmPayment('YzNSMU1qazA=', Array)
+#4 C:\xampp\htdocs\as\core\lib\router\Router.php(222): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('EmployeesContro...', Array)
+#6 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#7 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/emp/user/YzNSM...')
+#8 {main}
+[2026-02-20 10:35:32] Route not found: GET /emp/user/add%3C/a%3E in C:\xampp\htdocs\as\core\lib\router\Router.php:120
+Stack trace:
+#0 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/emp/user/add%3...')
+#1 {main}
+[2026-02-21 15:03:14] Database connection failed in C:\xampp\htdocs\as\core\lib\helper\SettingHelper.php:313
+Stack trace:
+#0 C:\xampp\htdocs\as\core\lib\helper\SettingHelper.php(617): AaoSikheSystem\helper\SettingHelper->loadCache()
+#1 C:\xampp\htdocs\as\core\lib\helper\SettingHelper.php(337): AaoSikheSystem\helper\SettingHelper->all()
+#2 C:\xampp\htdocs\as\index.php(40): AaoSikheSystem\helper\SettingHelper->load()
+#3 {main}
+[2026-02-21 16:32:18] Controller App\Controllers\UserConroller not found in C:\xampp\htdocs\as\core\lib\router\Router.php:213
+Stack trace:
+#0 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('UserConroller@g...', Array)
+#1 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#2 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('POST', '/ajax/user/paym...')
+#3 {main}
+[2026-02-21 16:32:59] Controller App\Controllers\UserConroller not found in C:\xampp\htdocs\as\core\lib\router\Router.php:213
+Stack trace:
+#0 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('UserConroller@g...', Array)
+#1 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#2 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('POST', '/ajax/user/paym...')
+#3 {main}
+[2026-02-21 16:33:28] Controller App\Controllers\UserConroller not found in C:\xampp\htdocs\as\core\lib\router\Router.php:213
+Stack trace:
+#0 C:\xampp\htdocs\as\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('UserConroller@g...', Array)
+#1 C:\xampp\htdocs\as\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#2 C:\xampp\htdocs\as\index.php(98): AaoSikheSystem\router\Router->dispatch('POST', '/ajax/user/paym...')
+#3 {main}
+[2026-02-22 03:59:14] Class "App\models\CourseModel" not found in C:\xampp\htdocs\fw\app\controllers\HomeController.php:42
+Stack trace:
+#0 C:\xampp\htdocs\fw\core\lib\router\Router.php(216): App\Controllers\HomeController->__construct()
+#1 C:\xampp\htdocs\fw\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('HomeController@...', Array)
+#2 C:\xampp\htdocs\fw\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#3 C:\xampp\htdocs\fw\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/')
+#4 {main}
+[2026-02-22 04:00:14] Class "App\models\CourseModel" not found in C:\xampp\htdocs\fw\app\controllers\HomeController.php:42
+Stack trace:
+#0 C:\xampp\htdocs\fw\core\lib\router\Router.php(216): App\Controllers\HomeController->__construct()
+#1 C:\xampp\htdocs\fw\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('HomeController@...', Array)
+#2 C:\xampp\htdocs\fw\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#3 C:\xampp\htdocs\fw\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/')
+#4 {main}
+[2026-02-22 04:00:15] Class "App\models\CourseModel" not found in C:\xampp\htdocs\fw\app\controllers\HomeController.php:42
+Stack trace:
+#0 C:\xampp\htdocs\fw\core\lib\router\Router.php(216): App\Controllers\HomeController->__construct()
+#1 C:\xampp\htdocs\fw\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('HomeController@...', Array)
+#2 C:\xampp\htdocs\fw\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#3 C:\xampp\htdocs\fw\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/')
+#4 {main}
+[2026-02-22 04:01:27] View template not found: home in C:\xampp\htdocs\fw\core\lib\view\View.php:32
+Stack trace:
+#0 C:\xampp\htdocs\fw\app\controllers\HomeController.php(128): AaoSikheSystem\view\View->render('home', Array)
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 C:\xampp\htdocs\fw\core\lib\router\Router.php(222): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\fw\core\lib\router\Router.php(201): AaoSikheSystem\router\Route->executeController('HomeController@...', Array)
+#4 C:\xampp\htdocs\fw\core\lib\router\Router.php(115): AaoSikheSystem\router\Route->execute(Array)
+#5 C:\xampp\htdocs\fw\index.php(98): AaoSikheSystem\router\Router->dispatch('GET', '/')
+#6 {main}
