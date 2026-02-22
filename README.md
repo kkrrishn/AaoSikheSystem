@@ -33,14 +33,15 @@ To get a local copy up and running, follow these simple steps:
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/kkrrishn/AaoSikheSystem.git](https://github.com/kkrrishn/AaoSikheSystem.git)
-2. Navigate to the Directory
-Bash
+```
+### 2. Navigate to the Directory
+
 cd AaoSikheSystem
-3. Usage
+### 3. Usage
 Open index.html in your favorite browser to see the welcome page, or integrate the /src files into your existing project.
 
 📁 Project Structure
-Plaintext
+```
 AaoSikheSystem/
 ├── assets/             # Images, Fonts, and Icons
 ├── css/                # Stylesheets (Main & Components)
@@ -48,7 +49,8 @@ AaoSikheSystem/
 ├── modules/            # Course/Lesson templates
 ├── index.html          # Main Entry Point (Welcome Page)
 └── README.md           # Project Documentation
-🤝 Contributing
+````
+#🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 Fork the Project
@@ -66,9 +68,9 @@ Distributed under the MIT License. See LICENSE for more information.
 
 📧 Contact
 Project Lead: Krishna (@kkrrishn)
-
+```
 Project Link: https://github.com/kkrrishn/AaoSikheSystem
-
+```
 "Empowering everyone through structured learning."
 
 
