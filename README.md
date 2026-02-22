@@ -35,8 +35,9 @@ To get a local copy up and running, follow these simple steps:
 git clone [https://github.com/kkrrishn/AaoSikheSystem.git](https://github.com/kkrrishn/AaoSikheSystem.git)
 ```
 ### 2. Navigate to the Directory
-
+```bash
 cd AaoSikheSystem
+```
 ### 3. Usage
 Open index.html in your favorite browser to see the welcome page, or integrate the /src files into your existing project.
 
